@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TDA on Yitao Li</title>
+    <link>/tags/tda/</link>
+    <description>Recent content in TDA on Yitao Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 21 Nov 2018 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/tags/tda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ethereum Curves</title>
+      <link>/project/ethercurve-project/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/project/ethercurve-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
